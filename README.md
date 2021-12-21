@@ -5,7 +5,7 @@ I'm Hamza Rashed Full Stack web Developer || Data Science || and always willing 
 [![dev.to badge](https://img.shields.io/badge/linkedin-Hamza-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/hamza-rashed-9864321b3)
 [![glitch badge](https://img.shields.io/badge/youtube-HR-%23FF0000?style=flat&logo=youtube)](https://www.youtube.com/channel/UCSKljGf8al5Y7W5taSrkqOw)
 
-- ⚡️ Technologies I work with: HTML, CSS, Java Script , React js , Node js ,    Sql , Python, Django , Tkinter ,PANDAS, ETC..
+- ⚡️ Technologies I work with: HTML, CSS, Java Script , React js , Redux , Node js ,    Sql , Python, Django , Tkinter ,PANDAS, ETC..
 - 👨‍💻 All of my projects are available 👉  [here](https://github.com/Hamza-Rashed?tab=repositories)
 - 👯 Looking for an opportunity.
 
